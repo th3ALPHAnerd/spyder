@@ -1,0 +1,19 @@
+{
+  "name": "spyder",
+  "version": "1.0.0",
+  "description": "A web crawler and task runner.",
+  "main": "spyder.js",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "node-horseman": "^3.3.0",
+    "phantomjs-prebuilt": "^2.1.14",
+    "prompt": "^1.0.0",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "th3ALPHAnerd",
+  "license": "ISC"
+}
